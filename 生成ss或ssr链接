@@ -2,3 +2,9 @@ ss:
   编码:将method:password@server:port进行base64编码得到的数据加上ss://
   解码:在解码前，如果字符串中有包含 – 和 _ 的字符，要先分别替换为 + 和 / , 然后再通过 base64_decode
 ssr:
+
+
+
+base64编码/解码工具网址:
+https://base64.us/
+http://tools.jb51.net/tools/base64_decode-utf8.php
